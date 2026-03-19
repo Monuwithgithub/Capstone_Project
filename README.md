@@ -1,4 +1,4 @@
-# Capstone_Project : # 🍕 Pizza Sales Analysis Project
+# Capstone_Project :  🍕 Pizza Sales Analysis Project
 
 ## 📌 Project Overview
 This project analyzes pizza sales data to uncover key business insights such as revenue trends, customer behavior, and product performance. The goal is to help the business make data-driven decisions to improve sales and profitability.
